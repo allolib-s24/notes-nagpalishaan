@@ -25,5 +25,8 @@ https://github.com/allolib-s24/notes-nagpalishaan/assets/86748731/b973591d-c4ae-
 Alto Saxophone, Clarinet, Tuba, Bass Drum, Snare Drum with FM synthesis
 1083 Midi Notes
 
-For this project, I wanted to arrange a piece but the Synth files looked awful for writing music in a clean fashion when multiple instruments are being used. I developed a python script to write music in a simpler manner.  ![Screenshot 2024-06-02 235311](https://github.com/allolib-s24/notes-nagpalishaan/assets/86748731/57642738-ae1e-4f87-8d90-534ec0591b9f) ![Screenshot 2024-06-02 235242](https://github.com/allolib-s24/notes-nagpalishaan/assets/86748731/d3bdad16-85e7-4b31-947d-cf8bc374b6d9)
-Then, the melody was developed. After you run the python script you can copy and paste it into a Synth file and run. Then run using the FM Synthesis cpp file.
+For this project, I wanted to arrange a piece but the Synth files looked awful for writing music in a clean fashion when multiple instruments are being used. I developed a python script to write music in a simpler manner. Then, the melody was developed. After you run the python script you can copy and paste it into a Synth file and run. Then run using the FM Synthesis cpp file.
+
+
+https://github.com/allolib-s24/notes-nagpalishaan/assets/86748731/feb3585c-1ac8-4be4-af1d-cef0c5d200e4
+
