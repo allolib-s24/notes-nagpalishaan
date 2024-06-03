@@ -27,6 +27,11 @@ Alto Saxophone, Clarinet, Tuba, Bass Drum, Snare Drum with FM synthesis
 
 For this project, I wanted to arrange a piece but the Synth files looked awful for writing music in a clean fashion when multiple instruments are being used. I developed a python script to write music in a simpler manner. Then, the melody was developed. After you run the python script you can copy and paste it into a Synth file and run. Then run using the FM Synthesis cpp file.
 
+## Music Only Video
 
 https://github.com/allolib-s24/notes-nagpalishaan/assets/86748731/feb3585c-1ac8-4be4-af1d-cef0c5d200e4
+
+## Final Project Demo
+
+https://github.com/allolib-s24/notes-nagpalishaan/assets/86748731/c11fd614-c0ee-49a3-9796-229f5967f720
 
