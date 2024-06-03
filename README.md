@@ -11,14 +11,12 @@ Personally, I wasn’t too familiar with music theory and Professor Conrad went 
 Some examples of instruments values:
 
 FM freq amplitude attackTime releaseTime sustain idx1 idx2 idx3 carMul modMul pan
-
-Trumpet [INSERT VIDEO]: FM 256.869 0.5 0.1 0.1 0.75 5 7 5 1 1.0007 0 
+Alto Saxophone: FM 256.869 0.2 0.1 0.1 0.75 1.5 1 2.5 1 1.0007 0
+Trumpet (demo below): FM 256.869 0.5 0.1 0.1 0.75 5 7 5 1 1.0007 0 
 
 
 https://github.com/allolib-s24/notes-nagpalishaan/assets/86748731/b973591d-c4ae-4da4-afb0-f61e597b7948
 
-
-Alto Saxophone: FM 256.869 0.2 0.1 0.1 0.75 1.5 1 2.5 1 1.0007 0
 
 # Final Project:
 ## Imperial March by John Williams
