@@ -1,4 +1,5 @@
 # Simple Melody
+This is my Mom's version of Do-Re-Mi that she would sing to my as a child. It is slower than the original.
 
 
 https://github.com/allolib-s24/notes-nagpalishaan/assets/86748731/fee3ee53-450a-4dfe-b592-f1b4e4dd9dd6
