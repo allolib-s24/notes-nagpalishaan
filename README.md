@@ -1,3 +1,9 @@
+# Simple Melody
+
+
+https://github.com/allolib-s24/notes-nagpalishaan/assets/86748731/fee3ee53-450a-4dfe-b592-f1b4e4dd9dd6
+
+
 # Sound Design Project: 
 This is a good path for sound design for beginners.
 Personally, I wasn’t too familiar with music theory and Professor Conrad went through a technique for people struggling with. I wanted to develop a Trumpet and Professor Conrad suggested a method using FM synthesis. Here is the steps I took and how to replicate.
